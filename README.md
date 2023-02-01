@@ -7,10 +7,10 @@
 
 > How to use the library :
 
-``python
+```python
     from netc import check_net
     if check_net():
       print('net ok')
     else:
       print('net no')
-``
+```
